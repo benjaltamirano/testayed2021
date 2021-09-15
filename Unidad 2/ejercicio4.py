@@ -1,0 +1,6 @@
+print("Ingresar dato")
+dato1=input()
+print("Ingresar dato")
+dato2=input()
+suma=int(dato1)+int(dato2)
+print(f"la suma es {suma}")
